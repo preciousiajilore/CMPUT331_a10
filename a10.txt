@@ -1,2 +1,2 @@
-Language: ____
-Reason: ____
+Language: English
+Reason: I think English is the most confused language overall, in the SSD confuson matrix, only 1 out of the 5 English ciphertext is correctly classified as English while the others are classified as Bulgarian, Spanish and Italian. Compared to other languages this is the highest misclassification for a language. In contrast, the DPD only makes one mistake were it classied a French ciphertext as Spanish.
